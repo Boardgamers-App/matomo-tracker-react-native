@@ -1,5 +1,5 @@
 {
-  "name": "matomo-tracker-react-native",
+  "name": "@boardgamers-app/matomo-tracker-react-native",
   "version": "0.3.1",
   "description": "Stand alone library for using Matomo tracking in React Native and Expo projects.",
   "license": "MIT",
