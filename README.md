@@ -21,11 +21,11 @@ There are two existing implementations for Node.js and React, that built the bas
 ```sh
 # with npm:
 
-npm install matomo-tracker-react-native
+npm install @boardgamers-app/matomo-tracker-react-native
 
 # or with yarn:
 
-yarn add matomo-tracker-react-native
+yarn add @boardgamers-app/matomo-tracker-react-native
 ```
 
 ## Usage

@@ -3,15 +3,15 @@
   "version": "0.3.1",
   "description": "Stand alone library for using Matomo tracking in React Native and Expo projects.",
   "license": "MIT",
-  "repository": "donni106/matomo-tracker-react-native",
+  "repository": "Boardgamers-App/matomo-tracker-react-native",
   "main": "index.js",
   "keywords": [
     "matomo",
     "react native",
     "expo"
   ],
-  "author": "Daniel <dm@tpwd.de>",
+  "author": "Jeffrey Nijs",
   "bugs": {
-    "url": "https://github.com/donni106/matomo-tracker-react-native/issues"
+    "url": "https://github.com/Boardgamers-App/matomo-tracker-react-native/issues"
   }
 }
